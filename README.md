@@ -10,3 +10,6 @@ I have designed the ARIMA model provided in the code above to process the histor
 A mock dataset was used in the jupyter notebook shown above to read in historical data for a few cellular sites, apply the ARIMA machine learning model to each individually, then to make 52 weekly predictions (1 year into the future) and output a graphical image which includes the historical data recorded, and the year long prediction in 52 week incriments.
 
 This code also includes the logic for generating a CSV report which outputs each weekly prediction for a given cellular site and the percent of error that is expected with the prediction. 
+
+### Vocabulary
+**% Utilization** : (Data Processed By Cellular Tower) / (Maximum Data that Cellular Tower is able to process)
