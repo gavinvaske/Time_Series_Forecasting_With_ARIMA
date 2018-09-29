@@ -12,4 +12,5 @@ A mock dataset was used in the jupyter notebook shown above to read in historica
 This code also includes the logic for generating a CSV report which outputs each weekly prediction for a given cellular site and the percent of error that is expected with the prediction. 
 
 ### Vocabulary
-**% Utilization** : (Data Processed By Cellular Tower) / (Maximum Data that Cellular Tower is able to process)
+**% Utilization :** (Data Processed By Cellular Tower) / (Maximum Data that Cellular Tower is able to process)
+**EX :** If **Tower A** is able to process 1000 GB of data and currently is processing 500 GB of data, Tower A's **% Utilization** is **50%**
